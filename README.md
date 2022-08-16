@@ -11,7 +11,6 @@ SO THAT I can organize and plan my business
 
 
 ```
-![](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/ailee/OneDrive/Desktop/Coding%20Bootcamp/UTA-VIRT-FSF-FT-06-2022-U-LOLC/12-SQL/02-Challenge/Assets/12-sql-homework-demo-01.png?version%3D1660612418230)
 
 
 

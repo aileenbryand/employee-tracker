@@ -1,12 +1,16 @@
-DROP DATABASE IF EXISTS schema_db;
-CREATE DATABASE schema_db;
-USE DATABASE schema_db; 
+DROP DATABASE IF EXISTS employee_db;
+CREATE DATABASE employee_db;
+USE DATABASE employee_db; 
 
+
+/*DEPARTMENT TABLE*/
 CREATE TABLE department(
     id INT PRIMARY KEY,
 
     name VARCHAR(30) NOT NULL
 )
+
+/*ROLE TABLE*/
 
 CREATE TABLE role(
     id INT PRIMARY KEY,
@@ -18,7 +22,7 @@ CREATE TABLE role(
     department_id INT 
 )
 
-
+/*EMPLOYEE*/
 CREATE DATABASE employee(
     id INT PRIMARY KEY
 
